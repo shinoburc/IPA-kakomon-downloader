@@ -25,7 +25,7 @@ If you want to download pm(Project Manager) kakomon in 2013.
 ## Windows
 
  * unzip master.zip
- * Goto "IPA-kakomon-downloader-maste" folder.
+ * Goto "IPA-kakomon-downloader-master" folder.
 
 If you want to download pm(Project Manager) kakomon in 2013.
 
