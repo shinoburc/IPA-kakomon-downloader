@@ -1,7 +1,7 @@
 IPA-kakomon-downloader
 ======================
 
-IPA kakomon downloader.
+IPA 情報処理技術者試験の過去問pdfをダウンロードするツール。
 
 ## Download
 
@@ -15,7 +15,7 @@ https://github.com/shinoburc/IPA-kakomon-downloader/archive/master.zip
   $ cd IPA-kakomon-downloader-master/
   ~~~
 
-If you want to download pm(Project Manager) kakomon in 2013.
+2013年春のpm(プロジェクトマネージャ)をダウンロードする場合。
 
   ~~~ sh
   $ cd linux/kakomon/2013/pm/1/
@@ -24,13 +24,29 @@ If you want to download pm(Project Manager) kakomon in 2013.
 
 ## Windows
 
- * unzip master.zip
- * Goto "IPA-kakomon-downloader-master" folder.
+ * master.zip を解凍。
+ * "IPA-kakomon-downloader-master" フォルダに移動。
 
-If you want to download pm(Project Manager) kakomon in 2013.
+2013年春のpm(プロジェクトマネージャ)をダウンロードする場合。
 
-  * Goto "windows/kakomon/2013/pm/1/" folder.
-  * Double click  "download_pdf.bat"
+  * "windows/kakomon/2013/pm/1/" フォルダに移動。
+  * "download_pdf.bat" をダブルクリックで実行。
+
+## 試験区分の略字
+
+ * ITパスポート試験 : ip
+ * 基本情報技術者試験 : fe
+ * 応用情報技術者試験 : ap
+
+ * ITストラテジスト試験 : st
+ * システムアーキテクト試験 : sa
+ * プロジェクトマネージャ試験」 : pm
+ * ネットワークスペシャリスト試験 : nw
+ * データベーススペシャリスト試験 : db
+ * エンベデッドシステムスペシャリスト試験 : es
+ * 情報セキュリティスペシャリスト試験 : sc
+ * ITサービスマネージャ試験 : sm
+ * システム監査技術者試験 : au
 
 ## LICENSE
 
